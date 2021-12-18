@@ -1,2 +1,2 @@
-"feature 1 with 1 bugs feature 2 wip"
+"feature 1 "
 
